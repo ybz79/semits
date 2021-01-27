@@ -1,0 +1,10 @@
+.pytorch_pretrained_bert/*
+
+data/*
+
+checkpoint/*
+
+test_result/*
+
+saved_model/*
+
